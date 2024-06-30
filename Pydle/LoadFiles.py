@@ -1,6 +1,4 @@
-
 import os
-
 def ShowFiles():
     i = 0
     fileList = loadALlFiles()
@@ -10,7 +8,6 @@ def ShowFiles():
 
     # List for file thing
     wordList = []
-
     # Get the user input
     selectF = IsNumeric("Selection [1] : ", '1')
     # Process the file to get the deque of chars

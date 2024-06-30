@@ -1,7 +1,4 @@
-# Lab - 01
-# PYDLE
-# Amanjot Singh Sandhu
-# 1231_2850_L01
+####Pydle####
 import configparser
 import random
 import LoadFiles
